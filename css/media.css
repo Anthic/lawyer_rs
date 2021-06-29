@@ -1,0 +1,417 @@
+@media(min-width:0px) and (max-width:1025px){
+        .navbar-nav{
+            text-align: center;
+            margin-top: 10px;
+        }
+        .banner h1 {
+        font-size: 61px;
+         }
+        .ami {
+        margin-top: 48px;
+        }
+        .what_we_do {
+            background-size: 718px;
+        }
+        .image:hover .title {
+            top: 42%;
+        }
+        .title h1 {
+            font-size: 25px;
+        }
+        .heading h1 {
+            font-size: 38px;
+        }
+        .who_we_are p {
+            font-size: 15px;
+            margin-top: 25px;
+        }
+        .heading_three h1 {
+            font-size: 36px;
+        }
+        .heading_three p {
+            font-size: 15px;
+        }
+        .heading_three h3 {
+            font-size: 17px;
+            margin-top: 11%;
+        }
+        .image2:hover .man {
+            top: 73%;
+        }
+        .h3, h3{
+          
+            font-size: 27px;
+        }
+        .Spanish h3 {
+        font-size: 24px;
+        }
+        .Spanish p {
+        font-size: 15px;
+        margin-top: 13px;
+        }
+        .Spanish h4 {
+        font-size: 16px;
+        }
+    .pt-3 {
+        padding-top: 3rem!important;
+    }
+    .heading2 h1 {
+    font-size: 36px;
+    margin-bottom: 27px;
+    }
+    .contact_us form input[type="submit"] {
+        width: 27%;
+        font-size: 19px;
+        margin: 18px 0;
+        margin-bottom: 31px
+    }
+}
+
+@media(min-width:0px) and (max-width:769px){
+    .banner h1 {
+        font-size: 57px;
+    }
+    .heading span {
+        margin-bottom: 10px;
+    }
+    .heading h1 {
+        font-size: 35px;
+        margin-bottom: 14px;
+    }
+    .who_we_are p {
+
+        font-size: 14px;
+    }
+    .ami {
+        margin-top: 104px;
+        width: 44%;
+        margin-left: 42px;
+    }
+    .what_we_do {
+
+        background-size: 556px;
+    }
+    .h3, h3 {
+
+        font-size: 21px;
+    }
+    .image2:hover .man {
+    
+        top: 73%;
+    }
+    .heading_two h1 {
+        font-size: 37px;
+        margin-top: 10px;
+    }
+    .pt-5 {
+        padding-top: 2rem!important;
+    }
+    .heading_three h1 {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .heading_three p {
+        font-size: 14px;
+    }
+    .heading_three h3 {
+        font-size: 18px;
+        margin-top: 13%;
+    }
+    .heading_two h1 {
+    font-size: 32px;
+    margin-top: 10px;
+    }
+    .Spanish h3 {
+        font-size: 19px;
+    }
+    .Spanish p {
+
+        font-size: 14px;
+    }
+    .Spanish h4 {
+        font-size: 13px;
+
+    }
+    .pt-3 {
+        padding-top: 2rem!important;
+    }
+    .heading2 h1 {
+        font-size: 36px;
+        margin-bottom: 29px;
+    }
+    .contact_us form input[type="submit"] {
+        width: 27%;
+        height: 36px;
+        font-size: 16px;
+        margin: 13px 0px;
+        margin-bottom: 23px;
+    }
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+    }
+    footer p {
+        font-size: 10px;
+        margin-left: 20px;
+        align-items: center;
+    }
+}
+@media(min-width:0px) and (max-width:426px){
+    .banner h1 {
+        font-size: 52px;
+    }
+    .heading span {
+        margin-bottom: 10px;
+    }
+    .heading h1 {
+        font-size: 31px;
+        margin-bottom: 20px;
+    }
+    .who_we_are p {
+        font-size: 15px;
+    }
+    .ami {
+        margin-top: 45px;
+    }
+    .heading_two span {
+        margin-bottom: 14px;
+    }
+    .heading_two h1 {
+        font-size: 33px;
+    }
+    .image {
+       
+        margin-bottom: 15px;
+    }
+    .heading_three h1 {
+        margin-top: 12px;
+        font-size: 35px;
+    }
+    .heading_three p {
+        font-size: 15px;
+    }
+    .heading_three h3 {
+        font-size: 21px;
+        margin-top: 10%;
+        margin-bottom: 33px;
+    }
+    .image2 img {
+        margin-bottom: 25px;
+    }
+    .mt-4 {
+        margin-top: 0rem!important;
+    }
+    .our {
+        padding-bottom: 30px;
+       
+    }
+    .Spanish h3 {
+        font-size: 26px;
+    }
+    .Spanish p {
+        font-size: 16px;
+    }
+    .Spanish h4 {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .pt-3 {
+        padding-top: 3rem!important;
+    }
+    .heading2 h1 {
+        font-size: 37px;
+        margin-bottom: 34px;
+        margin-top: 7px;
+    }
+    .contact_us form input[type="submit"] {
+        width: 29%;
+        height: 40px;
+        font-size: 17px;
+        margin-bottom: 30px;
+    }
+    .contact_us form textarea {
+        margin-bottom: 30px;
+    }
+    footer p {
+        font-size: 17px;
+        margin: 23px 0;
+    }
+    .text-side {
+        font-size: 21px;
+        margin: 11px 0px;
+    }
+}
+@media(min-width:0px) and (max-width:376px){
+    .banner h1 {
+        font-size: 41px;
+    }
+    .heading h1 {
+        font-size: 31px;
+        margin-bottom: 30px;
+    }
+    .heading span {
+
+        margin-bottom: 15px;
+    }
+    .who_we_are p {
+
+        font-size: 14px;
+    }
+    .ami {
+        margin-top: 39px;
+    }
+    .heading_two h1 {
+        margin-top: 15px;
+        font-size: 31px;
+    }
+    .image {
+    
+        margin-bottom: 15px;
+    }
+    .image2 img {
+        margin-bottom: 26px;
+    }
+    .mt-4 {
+        margin-top: 0rem!important;
+    }
+    .our {
+        padding-bottom: 39px;
+    }
+    .heading_three h1 {
+        font-size: 34px;
+        margin-top: 17px;
+    }
+    .heading_three p {
+        margin-top: 10px;
+    }
+    .heading_three h3 {
+        font-size: 19px;
+        margin-top: 9%;
+        margin-bottom: 34px;
+    }
+    .Spanish h3 {
+
+        font-size: 25px;
+    }
+    .Spanish p {
+        font-size: 15px;
+    }
+    .Spanish h4 {
+        font-size: 18px;
+        margin-bottom: 39px;
+    }
+    .heading2 h1 {
+        font-size: 31px;
+        margin-bottom: 33px;
+    }
+    .heading2 span {
+        margin-bottom: 9px;
+    }
+    .pt-3 {
+        padding-top: 3rem!important;
+    }
+    .contact_us form input[type="submit"] {
+        width: 31%;
+        margin: 20px 0px;
+        margin-bottom: 39px;
+    }
+    footer p {
+        font-size: 18px;
+        margin: 24px 0px;
+    }
+    
+    .text-side {
+        font-size: 21px;
+        margin: 12px 0px;
+        margin-bottom: 25px;
+    }
+}
+@media(min-width:0px) and (max-width:321px){
+    .navbar-brand img {
+        width: 66%;
+    }
+    .banner h1 {
+        font-size: 46px;
+    }
+ 
+    .icon{
+        font-size: 21px;
+    }
+    .heading h1 {
+        font-size: 28px;
+        margin-bottom: 17px;
+    }
+    .heading span {
+        margin-bottom: 13px;
+    }
+    .who_we_are p {
+
+        font-size: 12px;
+    }
+    .text-end {
+    
+    margin-top: 37px;
+    }
+    .heading_two h1{
+        font-size: 28px;
+        margin-top: 18px;
+    }
+   
+    
+    .heading_three h1 {
+        font-size: 31px;
+        margin-top: 14px;
+    }
+    .heading_three p {
+        font-size: 14px;
+    }
+    .heading_three h3 {
+        margin-bottom: 45px;
+    }
+
+    .image2 img {
+        margin-bottom: 45px;
+    }
+    .image2:hover .man {
+       
+        top: 68%;
+    }
+    .mt-4 {
+         margin-top: 0rem!important; 
+    }
+    .our {
+
+        padding-bottom: 34px;
+       
+    }
+    .Spanish p {
+
+        font-size: 15px;
+    }
+    .heading2 h1 {
+        font-size: 34px;
+        margin-top: 21px;
+    }
+    .contact_us form input[type="submit"] {
+        height: 36px;
+        font-size: 15px;
+        padding: 5px 10px;
+        border-radius: 16px;
+    }
+    input[type="submit"]:hover {
+
+        border-radius: 16px;
+    }
+    footer p {
+        font-size: 11pt;
+        margin-bottom: 15px;
+        margin-left: 5px;
+    }
+    .text-side {
+        margin-bottom: 13px;
+    }
+    .row>* {
+
+        margin-bottom:11px;
+    }
+}
